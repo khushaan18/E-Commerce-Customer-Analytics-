@@ -41,4 +41,4 @@ Interactive Ecommerce Sales Dashboard built using Microsoft Excel.
 
 ## Author
 
-Manan Badala
+Khushaan Saini
